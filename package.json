@@ -1,0 +1,19 @@
+{
+  "name": "kenzap-feature-list-block-cgb-guten-block",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "cgb-scripts start",
+    "build": "cgb-scripts build",
+    "eject": "cgb-scripts eject"
+  },
+  "dependencies": {
+    "cgb-scripts": "^1.23.1",
+    "fstream": "^1.0.12",
+    "js-yaml": "^3.14.0",
+    "lodash": "^4.17.20",
+    "lodash.mergewith": "^4.6.2",
+    "mem": "^5.1.1",
+    "tar": "^4.4.13"
+  }
+}
